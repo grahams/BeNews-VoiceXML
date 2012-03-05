@@ -1,0 +1,12 @@
+I was poking around some old directories and came across this old VoiceXML
+code I wrote for BeNews back in the day.  It is almost certainly of no use,
+but I figured it was slightly less worthless in public than it is in a dusty
+old nook of my filesystem.
+
+Files:
+
+benews.php - A VXML script to read the most recent headlines from BeNews.
+qjlg.php - A VXML script that reads you a random Jean-Louis Gassee quote.
+qjlg.txt - The data for the above script.  I guess it's in fortune format,
+it's been a long time.
+base.vxml - This has nothing to do with BeNews.  It's pretty self-explanatory
