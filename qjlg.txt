@@ -1,0 +1,457 @@
+"Every operating system is its own world (and the Be O S is richer than most)."
+%%
+"I'm this French farmer abducted by aliens and raised in California by VCs."
+%%
+"I'm a born-again capitalist"
+%%
+"On the Intel platform, Microsoft is the defacto standard. It's the weather"
+%%
+"A successful OS is an incredible instrument of wealth creation."
+%%
+"That makes my nipples hard!"
+%%
+"They are cheeky bastards."
+%%
+"Only the leading-edge, sometimes called bleeding-edge, users and
+programmers have the skills and the vision to explore the possibilities of
+what we've built and to unfold the contents of its genes."
+%%
+"Microsoft is coming after us, of course they are. And they should, that's
+what they should do."
+%%
+"Unfit for Consumption by Normal Humans"
+%%
+
+"By definition, we have something to fear from governments. They're run by 
+human beings, with normal tendencies to use and abuse the tools at their 
+disposal."
+%%
+"Someone once equated the web to the printing press of the next century. He
+or she must be right. They are trying to do to the net what they used to do
+to the books."
+%%
+"Do you think C++ is lovable? Unless you're into SM (Software Masochism),
+probably not."
+%%
+"Living inside the sausage factory, we gained an appreciation for the
+difficulties of incrementally evolving system software and developed a
+hunger for a simpler life, technically and organizationally."
+%%
+"At age 24, I was coming out of what is tolerantly referred to in California
+as my psycho-social moratorium."
+%%
+"Put another way, it is exceedingly rare, or foolish, to think a piece of
+software is absolutely right."
+%%
+"It bears repeating that without the Internet and the Web, this company
+probably wouldn't exist."
+%%
+"Not unlike some welfare programs, Human Resources becomes an end unto
+itself, a means of existence for a group of individuals whose sustenance
+depends upon their clients' problems."
+%%
+"I'll make the risque statement that it's more important for us to find the 
+next Adobe than to convince Adobe that Be is their next platform"
+%%
+"We should be thankful for a few reminders from Microsoft. Don't play 
+where they master both sides of an interface or a transaction. Initial 
+success, or failure, doesn't mean much; relentless pursuit and execution 
+of an idea does."
+%%
+"It was almost as lunatical as starting the company itself."
+%%
+"We'll be embarrassed on a regular basis, always good for the product and
+the soul."
+%%
+"So what do we live for, why do we do what we do? Is the answer money, ego,
+because we can, the technical challenge, fun, or dissing our elders?
+Certainly a combination of all of these."
+%%
+"If we don't make money, nothing else will matter."
+%%
+"You can't run the kind of marathon race we're running if you're not excited
+by the sport"
+%%
+"What better reward than to see others excited by your work?"
+%%
+"Still on the April Fool's topic, Gateway 2000 just announced their 
+acquisition of the assets of Amiga Technologies."
+%%
+"More damage has been caused by innocent program crashes than by malicious viruses, but they don't make great stories."
+%%
+"And then there was the Web. We can describe it in terms of IP packets. This is 
+about as useful as describing a human being in terms of the atoms that 
+make up a body. We're still trying to understand the life form that will 
+emerge from this IP soup."
+%%
+"After being a corporate asshole for so many years, I thought it would be a
+good idea to see the other side of the world."
+%%
+"If you ask people in the mainstream what they want, they'll say faster and
+smaller and cheaper. But with that you don't get innovation. If you align
+yourself with the ball-breaker, high-testosterone crowd, that leads to
+innovation."
+%%
+"The Japanese, they are a lot more trustworthy than people say. People say
+they are inscrutable - that is bullshit! The Japanese have a sense of style
+and aesthetics that I envy."
+%%
+"When I want to do something mindless to relax, I reinstall Windows 95."
+%%
+"I came from France - I spoke my mind. It's a more abrasive culture. I saw
+the Apple IIGS and said, 'This is fucked!' and it did not amuse some people.
+In France that's an opening statement. In retrospect, I blush when I think
+of all the stupid things I said."
+%%
+
+"I worked 22 years in the industry, and I noticed that operating systems get cancer with age."
+- Wired Magazine, Issue 4.05
+http://bedope.com/qjlg/
+%%
+"He's got balls. He's got brains. They work nicely together."
+%%
+"Bill Gates is very successful. Bill is Bill. The company is well managed.
+They are also wonderful intellectual terrorists."
+%%
+"The romance of Silicon Valley was about money - excuse me, about changing
+the world, one million dollars at a time."
+%%
+"Company cultures are mysterious, how they're born, how they evolve, how
+they can or can't be changed once they've become a liability. Something to
+fear, something to admire."
+%%
+"First, does this put us more squarely in competition with Microsoft? In
+other words, are we even crazier than previously perceived?"
+%%
+"On the road again. Outside Heathrow we were asked what band we're in."
+%%
+"We are often asked if we are crazy and we think this is a good question."
+- Be Newsletter, Issue 88 http://bedope.com/qjlg/
+%%
+"Now Be Dope, which attentive readers of our Web site have noticed a
+reference to. Check it out, it is good entertainment and, occasionally, good
+information."
+%%
+"I'm indisputably French, as John Dvorak attested. Feeling my pain, he once
+introduced me as the mind of a Frenchman unfortunately trapped in the body
+of a Frenchman. Too true."
+%%
+"Read Be Dope, even more fun and relevant than Wired -- and a lot easier on
+the eye."
+%%
+"At home or at the office, Microsoft is the toll gate."
+%%
+"Bill Gates has the means to elegantly transmutate his image - from wealthy
+despot into benevolent visionary: All he has to do is put Windows in the
+public domain, provide the source code and documentation through the
+Internet."
+%%
+"As obvious as we think it is, it bears repeating that an operating system
+is useless in itself."
+%%
+"Let me add that we have no HR department and don't plan to have one. We
+believe management should manage without interference or excuse."
+%%
+"Another aspect of our work environment is that we're cheap. In some
+companies, the thought police would advise me to say 'spartan,' but once you
+see the pair of 8-foot couches I bought for $10 in the summer of 1991, when
+we set up our first office in San Jose, you'll probably agree that cheap is
+the word."
+%%
+"We can't afford even one unhappy customer."
+%%
+"This Be O S is the best project I've ever been a part of."
+%%
+"In other less politically correct words, Microsoft is a lesser god in
+Europe than in the US."
+%%
+"This week, although the neon resembles Tokyo by night -- down to the
+creative syntax -- the streets are broader and the cabbies more aggressive,
+so this must be Vegas."
+%%
+"There's no good culture without a dash of bad taste; a monopoly of good
+taste suggests restraint -- you're not pushing the envelope. "
+%%
+"Personally, I imagine Microsoft thinks there must be a god and she likes
+Bill."
+%%
+"A new platform is like a new musical instrument. You can transpose existing
+music for it,  or write new music that exploits its unique expressive power.
+The saxophone, for  example, solved two problems: it provided better
+coupling and impedance between the  reed and the air mass; and the mechanics
+offered better, faster fingering and a wider  range of notes. You could play
+Bach fugues on a saxophone (rather nicely) or explore the  then-emerging
+genre of jazz."
+%%
+"I don't believe that PCs as we know them are forever and I also don't
+believe that they'll be 'replaced' by appliances."
+%%
+"This isn't a mechanical world, but a human world of emotions, expectations,
+and self-fulfilling prophecies."
+%%
+"Explorer is a roach motel of larger dimension than Office."
+%%
+"As I learn more idioms in my adopted tongue, I'm continuously delighted by
+the expressive power, the conciseness of the American lingo."
+%%
+"Yes, I like personal computers. They're useful, fun, and if you really
+invest enough time into making them work just right, you'll grow hair on
+your chest."
+%%
+"The idea that you can put an interface layer above the gas refinery, and
+the foul-smelling problems beneath it will never percolate to the surface is
+just that - an idea - a seductive one without foundation in observed
+behavior."
+%%
+"This is an instance of a well-known sophism: It'll work because it would be
+cool if it did. That's what we thought of handwriting recognition."
+%%
+"In the twilight of the PC-centric era, we are moving toward a Web-centric
+stage and our dear PC will be one of many devices happily swimming in the
+ocean of IP packets."
+%%
+"The Internet itself was a community -- some even said a commune -- of
+cheeky Unix users, if you'll pardon the pleonasm. They had the foresight to
+divert (or pervert) defense funding into developing a unified set of
+powerful protocols and wires interconnecting their computers. A simple Unix
+command - no pleonasm here - gave you access to files and other computing
+resources anywhere on the Internet."
+%%
+"There are things I shouldn't say, at least not if I'm unprepared to see a
+throwaway remark bounce back and become a reality."
+%%
+"Don't ask me 'When is our IPO?' My office overlooks the parking lot, and
+when I see the BMWs of investment bankers fighting for spaces, I'll know
+it's time."
+%%
+"All I have is an opinion -- I don't deal in Truth."
+%%
+"When an idea, a proposition, a cause is presented to me in terms that leave
+me no alternative but to be for it, because it's all pros and no cons, then
+I know I'm being conned."
+%%
+"Of course, we felt 'validated' when Bill Gates decreed Web appliances
+official. A little nervous, too, because, once again, we're competing on a
+field that Microsoft is targeting. No real surprise, but a reminder of the
+giant's known appetite."
+%%
+"On the personal side, I know I'm not meant to understand the stock market.
+I know this partly because of my love of mathematics."
+%%
+"This year, we are giving away about 1 million copies of the Be O S, the crack
+cocaine, if you will, to get people hooked."
+%%
+"I'd love to be reincarnated as a woman. Especially if I could keep my
+memories."
+%%
+"Look at how the barbarians dealt with the Roman Empire. This is perhaps
+more  appropriate, or you would call it  guerrilla marketing. We are trying
+to  find alliances with like-minded  barbarians and, you know, gain the mass
+and carve out territory where we can  lead a profitable life."
+%%
+"The way to find what the mainstream will do tomorrow is to associate with
+the lunatic fringe today."
+%%
+"We can survive with less than 100 percent market share."
+%%
+"Don't try to lawyer me out of common sense."
+%%
+"Life is long."
+%%
+"No, no. I never drink. Well, perhaps a very small single-malt
+scotch-neat."
+%%
+"We do not have what I like to call a 'regressive fixation on partial
+objects'"
+%%
+"For God's sake, don't compare us to Next. We want to be a better tool for
+developers, not to be tasteful. We don't cost $10,000. We have a floppy
+drive. We do not defecate on developers."
+%%
+"The best part of the Web is the anarchy--but it's still a little too
+clean-shaven for me."
+%%
+"Corporate taste is an oxymoron."
+%%
+"Do you know what the costliest phrase in technology is? It will work
+because it would be cool if it did."
+%%
+"But information is not at all like electricity. It's very hard to have rich
+functionality at the same time as simplicity."
+%%
+"The goal of the computer is to provide people with the means to extend
+people's minds and bodies. It is an exoskeleton that expands our human
+reach."
+%%
+"I am afraid of what voters will let government do in the name of national
+security. I fret about the power of the NSA."
+%%
+"You know, our young Steve has said so many things ...and their contrary."
+%%
+"If you try to punch the ugly taste out of a culture, it becomes an ugly
+culture."
+%%
+"And he says, "I can't really kill Photoshop becuause it's entrenched in the
+Mac market, but on the BeBox...ah, on the BeBox there isn't a dominatrix.'"
+%%
+"I had sophomoric names in mind for the company. I wanted to call it United
+Technowits, or stuff like that."
+%%
+"I am interested in new blood."
+%%
+"We are an upstart company. I want to side with the upstarts."
+%%
+"Yet you would not drive a car with your mouth unless you are my
+mother-in-law."
+%%
+"Making waves? I don't give a damn about making waves."
+%%
+"Corporate beer: less taste, more filling."
+%%
+"It's no secret that our company could be the Samuel Adams of the PC
+business - and I love it!"
+%%
+"I think it is better for societies if no one dominates forever."
+%%
+"People probably prefer someone who speaks real and honestly than the sort
+of bland mealy-mouthed stuff that comes from the members of corporate
+America."
+%%
+
+"I will never be a CEO of a large corporation. I have been a corporacrat. I
+have been in corporate detox for six years, and I realized that I am
+blissfully devoid of that kind of ambition."
+%%
+"Like in politics, you cannot speak your mind when you are the CEO of the
+company."
+%%
+"You cannot have honest discourse in politics or your people start harassing
+you because you said something that upsets them."
+%%
+"You know the people who have the bumper stickers that say "Windows 95 = Mac
+'89"? These are the faithful, and I respect their faith, but I would like to
+respectfully point out that faith is dangerous. Religion kills."
+%%
+"My own stupidity, I guess. My own weaknesses. I know they are there. But it
+is a good thing, they make me aspire to be a good person. It is a good
+feeling."
+%%
+"I'm going through a mystified period of my life, where the more I learn,
+the less I know."
+%%
+"In some ways I think God likes Bill Clinton. He's a womanizer, he's a
+charmer, so She likes him. And She sent Newt Gingrich to Earth to save
+Clinton from his own sins." 
+%%
+"I have the advantage of being a little guy, and I enjoy it - I appreciate
+it. And I am thankful for it; I won't take it for granted. I have lived in
+corporate America; now I'm an entrepreneur. I like it very much."
+%%
+"It is an honor when a developer commits to our system, not vice versa."
+%%
+"Even in the hardest of times, when I was looking into the whites of the
+repoman's eyes, when we were really running out of money, when I was
+mortgaging my house in order to make payroll, I slept a lot better than I
+did when I was working for Apple."
+%%
+"I don't understand why everyone thinks what is now is what will be
+tomorrow. In an industry that changes as fast as this one, anything can
+happen."
+%%
+"This is a world where Windows is the air, some people say even the oxygen,
+and you have to coexist with Windows."
+%%
+"Competing against a huge company is like a battle between emperors and
+barbarians. Barbarians start at the edge of the empire and create little
+nations, and band together. And one day they walk into Rome. Gates was once
+a barbarian. So there is every reason to believe that barbarians can become
+huge."
+%%
+"The Jesuits have this concept of holy effrontery--in defending their cause
+it's okay to use any means, including false statements. I'm not sure
+Microsoft's effrontery is that holy. It's certainly very shameless. But
+you've got to admire it at some level."
+%%
+"What Apple had and still has is a hardware addiction. And they can't pull
+the needle."
+%%
+"Buy now."
+%%
+"There is no decent platform without games."
+%%
+"If you really want to express yourselves in the world as a media OS, what
+better way than to have the really kick-ass games?"
+%%
+"There will be no UI at all at Be. We encourage you to violate the UI
+guidelines."
+%%
+"At a risk of being called sexist, ageist and French, if you put multimedia,
+a leather skirt and lipstick on a grandmother and take her to a nightclub,
+she's still not going to get lucky."
+%%
+"If we have to put on the knee pads and the tin cup and beg for money for
+business, we'll do that."
+%%
+"I'm old enough now, French and teetering precariously between experience
+and Alzheimer's, that I've met reality a few times."
+%%
+"After more than six years, we spent less than $20 million. I know a number
+of companies that feel there's nothing you can do with $20 million."
+%%
+"But as you say in English, c'est la vie!"
+%%
+"We're not from the suit-and-tie school, and it gives our developers a sense
+of peace."
+%%
+"The customers don't give a shit about the processor. They want the good
+stuff at a good price."
+%%
+"People bemoan the way Microsoft dominates the marketplace, but they should
+also laud the discipline and continuity of Microsoft."
+%%
+"The BeBox exposes the exciting to the excitable."
+%%
+"If you cut Windows, it bleeds to death"
+%%
+"More than one reader noted that I've become more cautious, shall we say, a
+little less 'colorful' in my observations. It's not clear whether this is
+seen as regrettable or, au contraire, a welcome change."
+%%
+"The 'Internet Appliance' label is, simply, a checkbox. Net connection is a
+feature, not a thing'."
+%%
+"PC identification is further simplified by its dearth of variation: They
+only comes in two colors, Redmond Teal and Cupertino Rainbow."
+%%
+"And so is Dick Tracy reborn as Vint Cerf (inventor of TCP/IP), midwife'd by
+Nicolas Hayek"
+%%
+"Commenting on the market's ups and downs is also problematic, but I can
+still enjoy the Talmudic exercise of commenting on the comments."
+%%
+"In this case, most PC users have only been exposed to Microsoft's lineage
+of operating systems. As a result,  there are few reference points for
+thinking of life with more than one breed of operating system and
+applications."
+%%
+"A few months after joining  Apple I was horrified when IBM unveiled its new
+product, a 16-bit homage to the Apple 2. They stole our song  and called it
+The Personal Computer."
+%%
+"There is a peasant revolt against big companies' over lordship of music
+publishing and distribution. Or so it seems."
+%%
+"*Beware of these column-writing CEOs.*"
+%%
+"I once preached peaceful coexistence with Windows. You may laugh at my
+expense - I deserve it"
+%%
+"Frightening but true. Personal computers have engendered another New Age
+co-dependancy. They shame us, they frustrate us and yet we keep spending
+money on them."
+%%
+"The days where Microsoft ruled by fear are waning."
+%%
+"If it works for Linux, it should work for us."
+%%
+"In a way, Linux helped us by  opening minds and wallets to the fact that  there is a world outside of the Windows  OS."

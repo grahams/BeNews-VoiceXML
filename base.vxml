@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<vxml version="1.0">
+<meta name="maintainer" content="yourname@yourserver.com"/>
+<meta name="application" content="Example of Audio Tag"/>
+<property name="bargein" value="false"/>
+<property name="confidencelevel" value="0.45"/>
+    <form>
+        <block>
+            All your base are belong to us.            
+        </block>
+    </form>
+</vxml>
+
